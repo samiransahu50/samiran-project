@@ -1,0 +1,36 @@
+.bdr{
+    height: 20px;
+    background-color: blueviolet;
+}
+.bdr1{
+    height: 20px;
+    background-color: white;
+}
+.dbox{
+    height: 30px;
+    border: 3px solid;
+}
+.cbox{
+    border: 3px solid;
+
+}
+.bdr2{
+    height: 20px;
+    background-color:greenyellow
+}
+.bdr3{
+    height: 20px;
+    background-color:skyblue
+}
+.frn{
+    font-family: Verdana, Geneva, sans-serif;
+font-size: 32px;
+letter-spacing: 1px;
+word-spacing: 2px;
+color: #4e16b8;
+font-weight: normal;
+text-decoration: none;
+font-style: bold;
+font-variant: normal;
+text-transform: none;
+}
